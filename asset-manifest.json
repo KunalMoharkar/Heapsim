@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Heapsim/static/css/main.05b85a17.chunk.css",
+    "main.js": "/Heapsim/static/js/main.8f45f19a.chunk.js",
+    "main.js.map": "/Heapsim/static/js/main.8f45f19a.chunk.js.map",
+    "runtime-main.js": "/Heapsim/static/js/runtime-main.2c10a0c2.js",
+    "runtime-main.js.map": "/Heapsim/static/js/runtime-main.2c10a0c2.js.map",
+    "static/js/2.bddebaa5.chunk.js": "/Heapsim/static/js/2.bddebaa5.chunk.js",
+    "static/js/2.bddebaa5.chunk.js.map": "/Heapsim/static/js/2.bddebaa5.chunk.js.map",
+    "index.html": "/Heapsim/index.html",
+    "precache-manifest.b0ec6787540d6087e9a6e1497510764b.js": "/Heapsim/precache-manifest.b0ec6787540d6087e9a6e1497510764b.js",
+    "service-worker.js": "/Heapsim/service-worker.js",
+    "static/css/main.05b85a17.chunk.css.map": "/Heapsim/static/css/main.05b85a17.chunk.css.map",
+    "static/js/2.bddebaa5.chunk.js.LICENSE.txt": "/Heapsim/static/js/2.bddebaa5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Heapsim/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c10a0c2.js",
+    "static/js/2.bddebaa5.chunk.js",
+    "static/css/main.05b85a17.chunk.css",
+    "static/js/main.8f45f19a.chunk.js"
+  ]
+}
